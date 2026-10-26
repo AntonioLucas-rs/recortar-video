@@ -1,0 +1,32 @@
+# Vídeos e imagens pessoais (inclusive em subpastas)
+*.[mM][pP]4
+*.[mM][oO][vV]
+*.[mM][kK][vV]
+*.[aA][vV][iI]
+*.[wW][eE][bB][mM]
+*.[mM]4[vV]
+*.[wW][mM][vV]
+*.[jJ][pP][gG]
+*.[jJ][pP][eE][gG]
+*.[pP][nN][gG]
+*.[wW][eE][bB][pP]
+*.[bB][mM][pP]
+*.[tT][iI][fF]
+*.[tT][iI][fF][fF]
+
+# Resultados, arquivos locais e ambientes Python
+videos_prontos/
+deletadas/
+entrada/
+saida/
+pronto/
+Videos/
+.verificacao/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.feitos.txt
+*.parcial.*
+.DS_Store
+Thumbs.db
